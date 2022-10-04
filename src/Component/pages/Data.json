@@ -1,0 +1,33 @@
+[{"id": -1,
+ "Name": "Sanjay",
+        "email": "mrsanjaydhakad926015@gmail.com",
+       "Contact": "9875463215",
+        "DOB": "5/2/1996",
+        "Address": "khajrana ganesh mandir indore",
+        "JOBlocation": "indore"
+
+},{"id": -2,
+ "Name": "ajay",
+        "email": "mrajaydhakad926015@gmail.com",
+       "Contact": "6258974568",
+        "DOB": "15/5/2003",
+        "Address": "lig indore",
+        "JOBlocation": "indore"
+
+},{"id": -3,
+ "Name": "Deepisha",
+        "email": "Deepisha926015@gmail.com",
+       "Contact": "9586482156",
+        "DOB": "15/10/2002",
+        "Address": "Vijay Nagar",
+        "JOBlocation": "indore"
+
+},{ "id": -4,
+ "Name": "jay",
+        "email": "mrjay926015@gmail.com",
+       "Contact": "95468215684",
+        "DOB": "15/05/2006",
+        "Address": "bangali square indore",
+        "JOBlocation": "indore"
+
+}]
